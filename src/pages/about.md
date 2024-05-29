@@ -71,6 +71,6 @@ I want to thanks [Charunthon Limseelo](https://github.com/chrnthnkmutt) for insp
 
 also his blog too! on [bebeyondcode.vercel.app](https://bebeyondcode.vercel.app)
 
-[![](@assets/images/aboutme/blog_pboat.png)](https://github.com/chrnthnkmutt)
+[![](@assets/images/aboutme/blog_pboat.png)](https://bebeyondcode.vercel.app)
 
 also you, that reading through the end!
