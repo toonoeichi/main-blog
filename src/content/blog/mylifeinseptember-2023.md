@@ -6,6 +6,12 @@ title: "[TH] My life in September | มรสุมชีวิตเดือ�
 description: มรุสมกันยาที่ข้ามยาก แต่ก็ผ่านไปได้
 slug: mylifeinseptember-2023
 featured: true
+draft: false
+tags:
+  - thai
+  - mental
+  - storytime
+  - update
 ogImage: ../../assets/images/mylifeinseptember-2023/Mylifeinsep-Thumbnail.png
 ---
 
