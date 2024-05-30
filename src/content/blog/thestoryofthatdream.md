@@ -3,7 +3,7 @@ author: Cartoon Kritthapath Yaviraj
 pubDatetime: 2023-08-28T18:55:43.000Z
 modDatetime: 2023-09-22T20:07:45.000Z
 title: "[TH] เรื่องฝันร้าย ๆ ในตอนที่คิดถึงเหตุการณ์ที่ดี ๆ วันนั้นที่ฉันเองยังลืมมันไม่ลง"
-description: ฝันแปลลก ๆ ก่อนไปงาน Azure Dev Day ที่ยังจดจำยันตอนนี้
+description: ฝันแปลก ๆ ก่อนไปงาน Azure Dev Day ที่ยังจดจำยันตอนนี้
 slug: thestoryofthatdream
 featured: false
 draft: false
