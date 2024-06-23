@@ -1,12 +1,12 @@
 ---
 author: Cartoon Kritthapath Yaviraj
 pubDatetime: 2023-09-30T10:39:59.000Z
-modDatetime: 2024-05-29T06:57:00.000Z
+modDatetime: 2024-05-23T06:57:00.000Z
 title: "[Multilingual] 15 วันสาธารณะ ผจญภัยการสร้างเว็บ w/ Hack Club Slack | TH"
-description: ผจญภัยแะเบื้ัองหลังเว็บใหม่และภารกิจ 15 Days in Public ใน Hack Club Slack (ชื่อเดิม 10 Days in Public)
+description: ผจญภัยและเบื้องหลังเว็บใหม่และภารกิจ 15 Days in Public ใน Hack Club Slack (ชื่อเดิม 10 Days in Public)
 slug: hc15d24-th
 featured: false
-draft: true
+draft: false
 tags:
   - multilingual
   - thai
