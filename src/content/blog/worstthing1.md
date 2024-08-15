@@ -4,7 +4,7 @@ pubDatetime: 2024-08-09T10:39:59.000Z
 modDatetime: 2024-08-09T06:57:00.000Z
 title: "[TH | ⚠️ TW ⚠️] เรื่องร้ายชาวตุ๊กตาสึตะ Part 1"
 description: "เรื่องราวหลังงานกาชาติที่เสียใจที่สุดและรู้สึกผิดที่สุดที่เคยมีมาจากการอยู่ในด้อมนี้ ⚠️ TW : Dirty / Not looking Plushie ⚠️"
-slug: worstthing-1
+slug: worstthing1
 featured: true
 draft: false
 tags:
