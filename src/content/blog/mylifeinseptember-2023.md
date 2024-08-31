@@ -5,7 +5,7 @@ modDatetime: 2024-05-29T06:57:00.000Z
 title: "[TH] My life in September | มรสุมชีวิตเดือนกันยาฯ"
 description: มรุสมกันยาที่ข้ามยาก แต่ก็ผ่านไปได้
 slug: mylifeinseptember-2023
-featured: true
+featured: false
 draft: false
 tags:
   - thai
