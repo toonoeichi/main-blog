@@ -14,7 +14,7 @@ tags:
   - mysite
   - 15daysinpublic
   - 10daysinpublic
-ogImage: ../../assets/images/hc15d24/15DaysinPublic_Banner.svg
+ogImage: ../../assets/images/banner/hc15d24.svg
 ---
 
 > For anyone want to read this in Thai : [[Click Here]](/posts/hc15d24-th)

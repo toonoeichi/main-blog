@@ -10,7 +10,7 @@ draft: false
 tags:
   - thai
   - update
-ogImage: ../../assets/images/hmkhaaw2023/maxresdefault.jpg
+ogImage: ../../assets/images/banner/hmkhaaw2023.jpg
 ---
 
 ฮะ ฮาย นี่ก็คงเป็น Blog ที่สองแล้วที่ได้มาลงบนเว็ปนี้ (เพราะปกติไม่ค่อบเล่าเรื่องอะไรพวกนี้ในคลิปอยู่และ ส่วนใหญ่จะลงไว้ใน Diary ในเฟสส่วนตัวมากกว่า)
