@@ -12,7 +12,7 @@ tags:
   - mental
   - storytime
   - update
-ogImage: ../../assets/images/mylifeinseptember-2023/Mylifeinsep-Thumbnail.png
+ogImage: ../../assets/images/banner/mylifeinseptember-2023.png
 ---
 
 ฮะ ฮาย หลังจากหายไปอีก 1 เดือนเต็ม ๆ กับ Blog (แล้วช่องด้วย) งั้นขอมาอัปเดทหน่อยแล้วกันนะว่า 1 เดือนนี้เป็นไงบ้าง อะไรยังไงบ้าง ไปกันเล๊ยยย

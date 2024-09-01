@@ -11,7 +11,7 @@ tags:
   - thai
   - mental
   - storytime
-ogImage: ../../assets/images/thestoryofthatdream/TheStoryOfThatDream-Thumbnail.png
+ogImage: ../../assets/images/banner/TheStoryOfThatDream.png
 ---
 
 เอาจริง ๆ ป่ะ เนี่ยน่าจะเป็นเรื่องแรก ๆ เลยที่เริ่มโพสต์ลง Blog ตัวเอง แต่ตอนนั้นรีบมากถึงขึ้นเข้าไปในเว็บ Telegraph แล้วโพสต์ลงเฟส
