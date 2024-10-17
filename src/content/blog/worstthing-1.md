@@ -1,7 +1,7 @@
 ---
 author: Cartoon Kritthapath Yaviraj
 pubDatetime: 2024-09-01T06:28:49.000Z
-modDatetime: 2024-09-01T06:28:49.000Z
+modDatetime: 2024-10-17T00:21:27.000Z
 title: "[TH | ⚠️ TW ⚠️] เรื่องร้ายชาวตุ๊กตาสึตะ Part 1"
 description: "เรื่องราวหลังงานกาชาติที่เสียใจที่สุดและรู้สึกผิดที่สุดที่เคยมีมาจากการอยู่ในด้อมนี้ ⚠️ TW : Dirty / Not looking Plushie ⚠️"
 slug: worstthing-1
@@ -124,7 +124,7 @@ ogImage: ../../assets/images/banner/worstthing1.svg
 
 ![](@assets/images/worstthing-1/vlcsnap-2024-09-01-01h15m06s663.jpg)
 
-ตอนนี้ผมได้น้องกลับมาอยู่ในมือของผมอีกครั้งแย้ววววววว 🥰🥰 (เดี๋ยวคลิป Unboxing จะตามมาเร็ว ๆ นี้แน่นอน รอดูกันได้เบยยย)
+ตอนนี้ผมได้น้องกลับมาอยู่ในมือของผมอีกครั้งแย้ววววววว 🥰🥰
 
 # Conclusion
 
@@ -140,3 +140,9 @@ ogImage: ../../assets/images/banner/worstthing1.svg
 
 หวังว่าบล็อคนี้จะให้อะไรไปบ้างไม่มากก็น้อยนะ มีไร กดแชร์ และคอมเม้นมาพูดคุยกันได้นะ
 **ขอโทษทุกคนในด้อมที่ต้องมาอ่านเรื่องราวอะไรที่มันแย่ ๆ แบบนี้นะ แต่ให้เก็บไว้เป็นคำเตือนมูลค่าแพงที่ไม่มีการจำกัดความชนิดนึงนะ**
+
+และใครอ่านมาถึงตรงนี้ มีคลิปตอนแกะด้วย กดคลิปข้างล่างดูได้เลย
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/z8iTpIgmIqI?si=tMT_0_a19b-Qji3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
