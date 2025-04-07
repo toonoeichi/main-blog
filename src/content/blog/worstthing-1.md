@@ -5,7 +5,7 @@ modDatetime: 2024-10-17T00:21:27.000Z
 title: "[TH | ⚠️ TW ⚠️] เรื่องร้ายชาวตุ๊กตาสึตะ Part 1"
 description: "เรื่องราวหลังงานกาชาติที่เสียใจที่สุดและรู้สึกผิดที่สุดที่เคยมีมาจากการอยู่ในด้อมนี้ ⚠️ TW : Dirty / Not looking Plushie ⚠️"
 slug: worstthing-1
-featured: true
+featured: false
 draft: false
 tags:
   - thai

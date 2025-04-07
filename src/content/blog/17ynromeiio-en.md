@@ -1,7 +1,7 @@
 ---
 author: Cartoon Kritthapath Yaviraj
-pubDatetime: 2025-04-08T06:15:00.000+0700
-modDatetime: 2025-04-08T06:15:00.000+0700
+pubDatetime: 2025-04-08T06:30:00.000+07:00
+modDatetime: 2025-04-08T06:30:00.000+07:00
 title: "[Multilingual] For you, my lovely sibling. | EN"
 description: Another years, Another special day for you. If I don't have you in my life, idk what my life will go on.
 slug: 17ynromeiio-en
@@ -12,7 +12,7 @@ tags:
   - english
   - 17ynromeiio
   - storytime
-ogImage: ../../assets/images/banner/hc15d24.svg
+ogImage: ../../assets/images/banner/17ynromeiio.svg
 ---
 > For you, My lovely sibling (in collaboration with #17ynromeiio project, a birthday project. )
 > - By ToonOeichi (brother)
