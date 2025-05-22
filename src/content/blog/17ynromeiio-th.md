@@ -5,8 +5,8 @@ modDatetime: 2025-04-08T06:30:00.000+07:00
 title: "[Multilingual] For you, my lovely sibling. | สำหรับแกนะ น้องที่แสนดี | TH"
 description: '"Another years, Another special day" สำหรับแกนะ เอาตรงนะ ถ้าฉันไม่มีแก ก็คงไม่รู้เหมือนกันนะว่าจะเป็นยังไงต่อไปเหมือนกันอ่ะ'
 slug: 17ynromeiio-th
-featured: true
-draft: false
+featured: false
+draft: true
 tags:
   - multilingual
   - thai
