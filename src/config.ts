@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://blog.toonstorytime.me/", // replace this with your deployed domain
-  author: "Cartoon Kritthapath Yaviraj",
+  website: "https://blog.toonshou.in/", // replace this with your deployed domain
+  author: "Cartoon Kritthapath Yaviraj (Toonshouin!)",
   desc: "My personal blog for updating my life for everyone in the world.",
-  title: "ToonStoryTime (ToonNongAeoy)'s Blog.",
-  name: "ToonStoryTime (ToonNongAeoy)",
+  title: "Toonshouin's Blog.",
+  name: "Toonshouin!",
   ogImage: "web-thumbnail.png",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -27,7 +27,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/toonnongaeoy",
+    href: "https://github.com/toonshouin",
     linkTitle: ` ${SITE.name} on Github`,
     active: true,
   },
@@ -39,25 +39,25 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Instagram",
-    href: "https://instagram.com/toonnongaeoy",
+    href: "https://instagram.com/toonshouin",
     linkTitle: `${SITE.name} on Instagram`,
     active: true,
   },
   {
     name: "LinkedIn",
-    href: "https://linkedin.com/in/toonnongaeoy",
+    href: "https://linkedin.com/in/toonoeichi",
     linkTitle: `${SITE.name} on LinkedIn`,
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:contact@toonstorytime.me",
+    href: "mailto:me@toonshou.in",
     linkTitle: `Send an email to ${SITE.name}`,
     active: true,
   },
   {
     name: "Twitter",
-    href: "https://x.com/toonnongaeoy",
+    href: "https://x.com/toonshouin",
     linkTitle: `${SITE.name} on Twitter`,
     active: true,
   },
@@ -117,9 +117,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Reddit",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.reddit.com/user/toonoeichi",
     linkTitle: `${SITE.name} on Reddit`,
-    active: false,
+    active: true,
   },
   {
     name: "Skype",
@@ -129,7 +129,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Steam",
-    href: "https://steamcommunity.com/id/toonnongaeoy/",
+    href: "https://steamcommunity.com/id/toonshouin/",
     linkTitle: `${SITE.name} on Steam`,
     active: true,
   },
