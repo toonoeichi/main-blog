@@ -5,7 +5,7 @@ title: "About"
 
 # Hi, I'm Kritthapath Yaviraj,
 
-or you may know as CartoonGamerTeamThailand, ToonStoryTime , ToonWannaMoveOn , etc.
+or you may know as CartoonGamerTeamThailand, ToonStoryTime , ToonWannaMoveOn , ToonNongAoey, Toonshouin! etc.
 
 ![](@/assets/images/tna-wallpaperbanner.png)
 
@@ -13,7 +13,7 @@ or you may know as CartoonGamerTeamThailand, ToonStoryTime , ToonWannaMoveOn , e
 
 ## Little things about myself!
 
-I'm 17 years old studying at [Dusit Commercial Nonthaburi Vocational College](https://dusitnon.ac.th) for Vocational Certificate in Computer Business. And interest in coding and tech all around.
+I'm 18 years old studying at [Pongsawadi Technological College](https://pongsawadi.ac.th) for Higher Vocational Certificate in Information Technology. And interest in coding and tech all around.
 
 This blog site is mostly all about me, sometime if I have an event, Maybe I will post here (at some point.) and also, this blog site based on Astro baaed on AstroPaper that I mostly modified for my needs.
 
@@ -65,12 +65,4 @@ and then fork my repo and then put you files in `src/content/blog` (and recommen
 
 ## Lastly,
 
-I want to thanks [Charunthon Limseelo](https://github.com/chrnthnkmutt) for inspire me to redesign and refactor from my old blog and also inspire to do someting like tihs, you can follow his GitHub here.
-
-[![](@/assets/images/aboutme/pboat_github.png)](https://github.com/chrnthnkmutt)
-
-also his blog too! on [bebeyondcode.vercel.app](https://bebeyondcode.vercel.app)
-
-[![](@/assets/images/aboutme/blog_pboat.png)](https://bebeyondcode.vercel.app)
-
-also you, that reading through the end!
+I want to thank you, that reading through the end!
