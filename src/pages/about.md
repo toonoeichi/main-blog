@@ -13,7 +13,7 @@ or you may know as CartoonGamerTeamThailand, ToonStoryTime , ToonWannaMoveOn , T
 
 ## Little things about myself!
 
-I'm 18 years old studying at [Pongsawadi Technological College](https://pongsawadi.ac.th) for Higher Vocational Certificate in Information Technology. And interest in coding and tech all around.
+I'm 19 years old studying at [Pongsawadi Technological College](https://pongsawadi.ac.th) for Higher Vocational Certificate in Information Technology. And interest in coding and tech all around.
 
 This blog site is mostly all about me, sometime if I have an event, Maybe I will post here (at some point.) and also, this blog site based on Astro baaed on AstroPaper that I mostly modified for my needs.
 
