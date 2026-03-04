@@ -1,13 +1,13 @@
 ---
-import Layout from "@layouts/Layout.astro";
-import Header from "@components/Header.astro";
-import Footer from "@components/Footer.astro";
-import Tag from "@components/Tag.astro";
-import Datetime from "@components/Datetime";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Tag from "@/components/Tag.astro";
+import Datetime from "@/components/Datetime";
 import type { CollectionEntry } from "astro:content";
-import { slugifyStr } from "@utils/slugify";
-import ShareLinks from "@components/ShareLinks.astro";
-import { SITE } from "@config";
+import { slugifyStr } from "@/utils/slugify";
+import ShareLinks from "@/components/ShareLinks.astro";
+import { SITE } from "@/config";
 
 export interface Props {
   post: CollectionEntry<"blog">;
@@ -80,7 +80,7 @@ const layoutProps = {
     <br />
     <script
       src="https://giscus.app/client.js"
-      data-repo="toonnongaeoy/main-blog"
+      data-repo="toonshouin/main-blog"
       data-repo-id="R_kgDOMBLBXA"
       data-category="Blog Comments."
       data-category-id="DIC_kwDOMBLBXM4CfuGw"
