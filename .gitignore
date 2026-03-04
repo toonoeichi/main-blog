@@ -34,3 +34,4 @@ pnpm-debug.log*
 !.yarn/versions
 .pnp.*
 bun.lock
+package-lock.json
