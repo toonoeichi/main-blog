@@ -7,7 +7,7 @@ title: "About"
 
 or you may know as CartoonGamerTeamThailand, ToonStoryTime , ToonWannaMoveOn , etc.
 
-![](@assets/images/tna-wallpaperbanner.png)
+![](@/assets/images/tna-wallpaperbanner.png)
 
 ## Table of contents
 
@@ -67,10 +67,10 @@ and then fork my repo and then put you files in `src/content/blog` (and recommen
 
 I want to thanks [Charunthon Limseelo](https://github.com/chrnthnkmutt) for inspire me to redesign and refactor from my old blog and also inspire to do someting like tihs, you can follow his GitHub here.
 
-[![](@assets/images/aboutme/pboat_github.png)](https://github.com/chrnthnkmutt)
+[![](@/assets/images/aboutme/pboat_github.png)](https://github.com/chrnthnkmutt)
 
 also his blog too! on [bebeyondcode.vercel.app](https://bebeyondcode.vercel.app)
 
-[![](@assets/images/aboutme/blog_pboat.png)](https://bebeyondcode.vercel.app)
+[![](@/assets/images/aboutme/blog_pboat.png)](https://bebeyondcode.vercel.app)
 
 also you, that reading through the end!
