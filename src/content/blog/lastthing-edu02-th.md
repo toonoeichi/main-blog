@@ -6,7 +6,7 @@ title: "[Multilingual | ⚠️ TW ⚠️] One Last thing of Education Phase Chap
 description: 'เรื่องราวของเด็ก 18 คนนึงที่ผ่านเรื่องราวการเรียนในระดับ "ปวช." "พาณิชย์" ที่หลาย ๆ คนมองว่าแย่ ⚠️ TW : Depression Thought ⚠️'
 slug: lastthing-edu02-th
 featured: true
-draft: false
+draft: true
 tags:
   - multilingual
   - thai
